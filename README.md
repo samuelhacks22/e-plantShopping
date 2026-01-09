@@ -28,7 +28,7 @@ This project lets users browse plant products, add them to a shopping cart, and 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ├── public
 ├── src
 │ ├── components
