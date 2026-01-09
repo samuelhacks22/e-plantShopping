@@ -29,4 +29,15 @@ This project lets users browse plant products, add them to a shopping cart, and 
 ---
 
 ## 📁 Project Structure
+├── public
+├── src
+│ ├── components
+│ ├── redux
+│ ├── styles
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
 
