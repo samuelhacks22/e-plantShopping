@@ -2,7 +2,7 @@
 
 A modern **React e-commerce website** showcasing plants and gardening products — built as part of a Full-Stack Development learning project.
 
-This project lets users browse plant products, add them to a shopping cart, and complete a checkout experience with responsive UI design — all built using React and modern front-end tooling. :contentReference[oaicite:1]{index=1}
+This project lets users browse plant products, add them to a shopping cart, and complete a checkout experience with responsive UI design — all built using React and modern front-end tooling. 
 
 ---
 
