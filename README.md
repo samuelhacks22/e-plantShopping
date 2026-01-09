@@ -1,4 +1,4 @@
-# 🌿 e-plantShopping
+# e-plantShopping
 
 A modern **React e-commerce website** showcasing plants and gardening products — built as part of a Full-Stack Development learning project.
 
@@ -6,17 +6,17 @@ This project lets users browse plant products, add them to a shopping cart, and 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌱 Browse a collection of plants and products  
-- 🛒 Add, remove, and update items in the shopping cart  
-- 💻 Built with React and Redux Toolkit for state management  
-- ⚡ Vite for fast development and production builds  
-- 📱 Responsive design for mobile and desktop
+- Browse a collection of plants and products  
+- Add, remove, and update items in the shopping cart  
+- Built with React and Redux Toolkit for state management  
+- Vite for fast development and production builds  
+- Responsive design for mobile and desktop
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
